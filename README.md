@@ -8,4 +8,7 @@ _1) Machine Learning Python File<br>
 2) File with Outputs and Data Visualization in the form of PDF,where Machine Learning code can be found.<br>
 3) Datafile after cleaning data to create Ddashboard using Power BI.<br>
 4) Power BI Dashboard File <br>_
-_5) Link of Dashboard:_ _
+_5) Link of Dashboard: _https://project.novypro.com/y3saZM_ <br>
+
+_The image below is the snapshot of the Dashboard._<br><br>
+![1111](https://github.com/user-attachments/assets/ff66a234-d700-4631-bced-f6278b10fef0)
